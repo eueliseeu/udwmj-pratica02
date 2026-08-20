@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+*.zip
+*.rar
+*.7z
+*.log
+
+node_modules/
